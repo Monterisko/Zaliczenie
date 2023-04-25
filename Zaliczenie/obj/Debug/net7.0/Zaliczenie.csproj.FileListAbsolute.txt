@@ -1,0 +1,15 @@
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\bin\Debug\net7.0\Zaliczenie.exe
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\bin\Debug\net7.0\Zaliczenie.deps.json
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\bin\Debug\net7.0\Zaliczenie.runtimeconfig.json
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\bin\Debug\net7.0\Zaliczenie.dll
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\bin\Debug\net7.0\Zaliczenie.pdb
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.AssemblyInfo.cs
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.dll
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\refint\Zaliczenie.dll
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.pdb
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\Zaliczenie.genruntimeconfig.cache
+C:\Users\monte\RiderProjects\Zaliczenie\Zaliczenie\obj\Debug\net7.0\ref\Zaliczenie.dll
